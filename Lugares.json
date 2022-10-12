@@ -1,0 +1,52 @@
+[
+  {
+    "Name": "TECNL",
+    "Location": "Guadalupe, N.L.",
+    "Details": "Como parte del Sistema Nacional de Educación Superior Tecnológica, dependiente de la Secretaría de Educación Pública, el 1 de octubre de 1976 fue fundado el Instituto Tecnológico de Nuevo León con el objetivo de difundir en el país los beneficios de la Educación Tecnológica y crear polos de desarrollo de acuerdo a las necesidades regionales convirtiéndose en la primera Institución Federal de Educación Superior en el Estado de Nuevo León y la número 48 del Sistema Nacional de Institutos Tecnológicos.",
+    "Image": "https://becas-mexico.mx/wp-content/uploads/2021/01/Becas-mexico-2021-estudia-en-el-Tecnologico-de-Nuevo-Leon-licenciaturas-online.jpg",
+    "Size": "Mediano",
+    "Population": 10000,
+    "Latitude": -25.665054,
+    "Longitude": -100.245529
+  },
+  {
+    "Name": "Softtek",
+    "Location": "Monterrey, N.L.",
+    "Details": "Softtek, legalmente constituida como Valores Corporativos Softtek, S.A. de C.V., es una empresa mexicana dedicada al desarrollo de software y otros servicios relacionados con las tecnologías de la información y la comunicación. La compañía fue fundada en diciembre de 1982 en la ciudad de Monterrey.",
+    "Image": "https://fastly.4sqi.net/img/general/600x600/83543927_DPe3EKvvw818f22sgZGRplna_hGYlpRvLZubP5MrZ0I.jpg",
+    "Size": "Mediano",
+    "Population": 23000,
+    "Latitude": 25.67315183571845,
+    "Longitude": -100.39156127468712
+  },
+  {
+    "Name": "Empire State Building",
+    "Location": "NY, Estados Unidos",
+    "Details": "El Empire State Building es un rascacielos situado en la intersección de la Quinta Avenida y West 34th Street, en la ciudad de Nueva York, Estados Unidos. Su nombre deriva del apodo del Estado de Nueva York.",
+    "Image": "https://marvel-b1-cdn.bc0a.com/f00000000179470/www.esbnyc.com/sites/default/files/2020-01/ESB%20Day.jpg",
+     "Size": "Grande",
+    "Population": 12000,
+    "Latitude": 40.748494209827335,
+    "Longitude": -73.98567386500478
+  },
+  {
+    "Name": "IBM México",
+    "Location": "Jalisco",
+    "Details": "International Business Machines Corporation es una reconocida empresa multinacional estadounidense de tecnología y consultoría con sede en Armonk, Nueva York.",
+    "Image": "https://www.ibm.com/ibm/history/ibm100/images/icp/Q351643L63088M61/mx_localstories_guadalajara_photo1_620x350.jpg",
+    "Size": "Grande",
+    "Population": 11000,
+    "Latitude": 20.566287455644133,
+    "Longitude": -103.29075125718674
+  },
+  {
+    "Name": "Allianz Arena",
+    "Location": "Munich, Alemania",
+    "Details": "El Allianz Arena es un estadio de fútbol ubicado en el barrio de Fröttmaning, al norte de Múnich, en el estado federado de Baviera, Alemania. Alberga los partidos como local del F. C. Bayern de Múnich de la Bundesliga de Alemania.",
+    "Image": "https://img.fcbayern.com/image/upload/t_cms-16x9-seo/v1638344484/cms/public/images/allianz-arena/Sonderbeleuchtung/Allianz-Arena_Lila_201203_DUC.jpg",
+    "Size": "Grande",
+    "Population": 19000,
+    "Latitude": 48.218808,
+    "Longitude": 11.624664
+  },
+]
