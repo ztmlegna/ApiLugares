@@ -16,8 +16,8 @@
     "Image": "https://fastly.4sqi.net/img/general/600x600/83543927_DPe3EKvvw818f22sgZGRplna_hGYlpRvLZubP5MrZ0I.jpg",
     "Size": "Mediano",
     "Population": 23000,
-    "Latitude": 25.67315183571845,
-    "Longitude": -100.39156127468712
+    "Latitude": 25.673151,
+    "Longitude": -100.391561
   },
   {
     "Name": "Empire State Building",
@@ -26,8 +26,8 @@
     "Image": "https://marvel-b1-cdn.bc0a.com/f00000000179470/www.esbnyc.com/sites/default/files/2020-01/ESB%20Day.jpg",
      "Size": "Grande",
     "Population": 12000,
-    "Latitude": 40.748494209827335,
-    "Longitude": -73.98567386500478
+    "Latitude": 40.748494,
+    "Longitude": -73.985673
   },
   {
     "Name": "IBM México",
@@ -36,8 +36,8 @@
     "Image": "https://www.ibm.com/ibm/history/ibm100/images/icp/Q351643L63088M61/mx_localstories_guadalajara_photo1_620x350.jpg",
     "Size": "Grande",
     "Population": 11000,
-    "Latitude": 20.566287455644133,
-    "Longitude": -103.29075125718674
+    "Latitude": 20.566287,
+    "Longitude": -103.290751
   },
   {
     "Name": "Allianz Arena",
